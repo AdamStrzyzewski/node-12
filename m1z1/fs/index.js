@@ -36,7 +36,7 @@ const getFiles = async (path) => {
 // fs.rename // rename/move file
 // fs.unlink // delete file
 
-// writeToFile("test.txt", `${Math.random()}\n`);
+// fs.writeToFile("test.txt", `${Math.random()}\n`);
 // \n - new line
 // fs.readFile(filename)
 
