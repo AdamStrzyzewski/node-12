@@ -27,3 +27,5 @@ npm run start
 npm start:dev - doesn't work!!!
 
 https://github.com/goitacademy/nodejs-homework/blob/master/homework-01/contacts.json
+
+// JSONvue
