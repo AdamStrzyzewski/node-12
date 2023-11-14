@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  web:
+    # container_name: adam-test
+    build: .
+    ports:
+      - 42234:3000
